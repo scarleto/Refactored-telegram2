@@ -13,15 +13,18 @@
 
 # Global rule:
 *           @dotnet/docs
-
+#
 # C# samples:
-/csharp/**  @BillWagner
+#/csharp/**  @BillWagner
 
 # ML.NET samples:
-/machine-learning/**  @luisquintanilla
+#/machine-learning/**  @luisquintanilla
 
 # WPF folders:
-/wpf/**   @adegeo
+#/wpf/**   @adegeo
 
 # Windows forms areas:
-/windowsforms/** @adegeo @dotnet/dotnet-winforms
+#/windowsforms/** @adegeo @dotnet/dotnet-winforms
+
+
+*`@scarleto
